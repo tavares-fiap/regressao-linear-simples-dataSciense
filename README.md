@@ -1,3 +1,5 @@
+# Pedro Henrique Pedrosa Tavares RM97877
+# Guilherme Rocha Bianchini RM97974
 # Análise do Código e Dataset:
 
 O código apresentado implementa uma regressão linear para prever o custo de seguros com base em um dataset chamado `insurance.csv`. O código, em sua estrutura, está bem organizado e demonstra um uso eficaz das bibliotecas do Python para análise de dados e aprendizado de máquina.
